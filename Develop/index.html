@@ -31,10 +31,9 @@
     <div class="hero"></div>
     <!-- end heaeder image -->
     <!-- start of main content section -->
-    <!-- changed content layout by replacing div with section to denote different -->
-    <div class="content">
         <!-- add id reference to SEO to allow click to reference section of page -->
         <!-- add "alt" references to all images in body-->
+    <div class="content">    
         <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg"  alt="" class="float-left" />
             <h2>Search Engine Optimization</h2>
@@ -59,10 +58,14 @@
     </div>
     <!-- end main content section -->
     <!-- start of benefits side bar -->
-    <div class="benefits">
+    <!-- grouped benefits code under section element to isolate and avoid div confusion -->
+    <section class="benefits">
+        <!-- add heading to benefits section so users understand it's purpose -->
+        <h2>Our Benefits</h2>
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt="" />
+            <!-- centered paragraphs in benefits section to improve visibility -->
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
             </p>
@@ -81,7 +84,7 @@
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
         </div>
-    </div>
+    </section>
     <!-- end benefits side bar -->
     <!-- start of footer -->
     <div class="footer">
