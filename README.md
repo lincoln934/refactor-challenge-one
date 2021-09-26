@@ -1,19 +1,25 @@
 # Code Refactor Starter Code
-# Your Project Title
+# Refactor Current Code for Herion
 
 ## Description
 
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted GitHub profile allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile&mdash;and one that many new developers often overlook&mdash;is the README.md file.
+Client described project ss follwos:
 
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out?
-
-Lastly, if your project is deployed, include a link to the deployed application here.
-
-If you're new to Markdown, read the [GitHub guide on mastering markdown](https://guides.github.com/features/mastering-markdown/).
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
 
 If you need an example of a good README, check out the [VS Code GitHub repository](https://github.com/microsoft/vscode).
 
@@ -34,6 +40,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 
 ## Usage
+
+![alt text](assets/images/screenshot1.png)
 
 Provide instructions and examples for use. Include screenshots as needed.
 
@@ -74,11 +82,11 @@ If your project has a lot of features, consider adding a heading called "Feature
 
 ## Contributing
 
+
+
 If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
 
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them.
 
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
