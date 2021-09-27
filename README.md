@@ -3,32 +3,31 @@
 <h1> Project Intent Refactor Current Code for Herion) </h1>
 
 ## Developer
-<h2> Sherwood Lincoln </h2>
-<h2> lincoln934@comcast.net </h2>
+### Sherwood Lincoln
+#### lincoln934@comcast.net
 https://github.com/lincoln934
 
 ## Ticket Description
 
-<p> Client described project as follwos:
-<b><b>
+### Client described project as follwos:
 
-AS A marketing agency<b>
-I WANT a codebase that follows accessibility standards<b>
-SO THAT our own site is optimized for search engines<b>
-</p>
 
-<p> GIVEN a webpage meets accessibility standards<b></b>
-WHEN I view the source code<b>
-THEN I find semantic HTML elements<b>
-WHEN I view the structure of the HTML elements<b>
-THEN I find that the elements follow a logical structure independent of styling and positioning<b>
-WHEN I view the image elements<b>
-THEN I find accessible alt attributes<b>
-WHEN I view the heading attributes<b>
-THEN they fall in sequential order<b>
-WHEN I view the title element<b>
-THEN I find a concise, descriptive title<b><b>
-</p>
+AS A marketing agency.
+I WANT a codebase that follows accessibility standards.
+SO THAT our own site is optimized for search engines.
+
+
+GIVEN a webpage meets accessibility standards.
+WHEN I view the source code.
+THEN I find semantic HTML elements.
+WHEN I view the structure of the HTML elements.
+THEN I find that the elements follow a logical structure independent of styling and positioning.
+WHEN I view the image elements.
+THEN I find accessible alt attributes.
+WHEN I view the heading attributes.
+THEN they fall in sequential order.
+WHEN I view the title element.
+THEN I find a concise, descriptive title.
 
 ## Outline of Changes
 
@@ -64,24 +63,24 @@ Screenshot of webpage after changes:
 
 ## Credits
 
-Support used for build:
-![alt text](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)
-![alt text](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors)
-![alt text](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
-![alt text](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-![alt text](https://www.thoughtco.com/why-use-semantic-html-3468271)
-![alt text](https://www.nobledesktop.com/html-quick-guide)
+### Support used for build:
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
+- (https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+- (https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured
+- (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- (https://www.thoughtco.com/why-use-semantic-html-3468271
+- (https://www.nobledesktop.com/html-quick-guide
 
 ## Badges
 
-<p>Badges, we don't need no stinking badges.</p>
+Badges, we don't need no stinking badges.
 
 ## Contributing
 
-<p>None</p>
+None.
 
 ## live link to revised webpage
 
-![alt text](https://lincoln934.github.io/refactor-challenge-one/)
+https://lincoln934.github.io/refactor-challenge-one/
 
 
