@@ -1,7 +1,13 @@
-# Code Refactor Starter Code
-# Refactor Current Code for Herion
+# Refactor-Challenge-One
 
-## Description
+Project Intent Refactor Current Code for Herion
+
+## Developer
+Sherwood Lincoln
+lincoln934@comcast.net
+github= https://github.com/lincoln934
+
+## Ticket Description
 
 Client described project ss follwos:
 
@@ -21,23 +27,28 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-If you need an example of a good README, check out the [VS Code GitHub repository](https://github.com/microsoft/vscode).
+## Outline of Changes
 
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need, such as the following:
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+Added comments to describe changes made to CSS file as they were made
+Added comments to html file to denote changes in layout and to show structure
+Linked header list attribute to proper reference in page to click and go
+Changed title so information about webpage shows up on tab in browser
+Added "alt" information to images in html file
+Grouped all benefits section code in html under 'section' attribute to clarify this sections content
+Added header to benefits section (sidebar) to clearly denote sections purpose
+Center paragraphs in benefits sidebar to improve appearance
+Reduced size of 'hero' image to condense homepage so users sees relative details without scrolling
+Modified some class selector names to make them more semantic
+Moved some CSS selectors to bunch relavent information together (all benefits formatting together as an example)
+Adjusted padding in content section to align bottom of main content with bottom of benefits sidebar
+Condensed img height under one class "content" to eliminate repitition in coding
+Condensed h2 formatting under "content" class to eliminate repitition in coding
+Condensed repetitive benefits formatting code under h2 and p, img elements
+Added formatting for new "Our Benefits" heading
+Adjusted format to size benefit box to align with content box vertically
+Added 'margin-top' to lead area of benefits sidebar to space under new header
+Eliminated all extra empty lines to improve readability
+Wrapped text in html to improve readability
 
 ## Usage
 
@@ -49,21 +60,13 @@ Screenshot of webpage after changes:
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-
-## License
-
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
-
----
-
-🏆 The sections listed above are the minimum for a high-quality README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Support used for build:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
+https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+https://www.thoughtco.com/why-use-semantic-html-3468271
+https://www.nobledesktop.com/html-quick-guide
 
 ## Badges
 
@@ -71,11 +74,10 @@ Badges, we don't need no stinking badges.
 
 ## Contributing
 
+None
 
+## live link to revised webpage
 
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+https://lincoln934.github.io/refactor-challenge-one/
 
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
 
