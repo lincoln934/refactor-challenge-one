@@ -11,8 +11,8 @@ github= https://github.com/lincoln934
 
 Client described project ss follwos:
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
+--AS A marketing agency
+--I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 GIVEN a webpage meets accessibility standards
