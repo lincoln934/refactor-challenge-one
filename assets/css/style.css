@@ -54,12 +54,13 @@ p {
 }
 /* end hero format */
 /* start main content format */
-.float-left {
+/* effort to make CSS class selector more semantic */
+.left-content-img {
     float: left;
     margin-right: 25px;
 }
-
-.float-right {
+/* effort to make CSS class selector more semantic */
+.right-content-img {
     float: right;
     margin-left: 25px;
 }
