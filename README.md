@@ -17,7 +17,7 @@ I WANT a codebase that follows accessibility standards<b>
 SO THAT our own site is optimized for search engines<b>
 </p>
 
-<p> GIVEN a webpage meets accessibility standards<b>
+<p> GIVEN a webpage meets accessibility standards<b></b>
 WHEN I view the source code<b>
 THEN I find semantic HTML elements<b>
 WHEN I view the structure of the HTML elements<b>
@@ -56,15 +56,15 @@ Wrapped text in html to improve readability<b><b>
 
 ## Usage
 
-<p>Screenshot of webpage prior to changes:</p>
-![alt text](assets/images/screenshot1.png)<b>
+Screenshot of webpage prior to changes:
+![alt text](assets/images/screenshot1.png)
 
-<p>Screenshot of webpage after changes:</p>
-![alt text](assets/images/screenshot2.png)<b>
+Screenshot of webpage after changes:
+![alt text](assets/images/screenshot2.png)
 
 ## Credits
 
-<p>Support used for build:</p>
+Support used for build:
 ![alt text](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)
 ![alt text](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors)
 ![alt text](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
