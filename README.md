@@ -5,7 +5,7 @@
 ## Developer
 <h2> Sherwood Lincoln </h2>
 <h2> lincoln934@comcast.net </h2>
-![alt text] (https://github.com/lincoln934)
+https://github.com/lincoln934
 
 ## Ticket Description
 
@@ -32,26 +32,26 @@ THEN I find a concise, descriptive title<b><b>
 
 ## Outline of Changes
 
-<p> Added comments to describe changes made to CSS file as they were made<b>
-Added comments to html file to denote changes in layout and to show structure<b>
-Linked header list attribute to proper reference in page to click and go<b>
-Changed title so information about webpage shows up on tab in browser<b>
-Added "alt" information to images in html file<b>
-Grouped all benefits section code in html under 'section' attribute to clarify this sections content<b>
-Added header to benefits section (sidebar) to clearly denote sections purpose<b>
-Center paragraphs in benefits sidebar to improve appearance<b>
-Reduced size of 'hero' image to condense homepage so users sees relative details without scrolling<b>
-Modified some class selector names to make them more semantic<b>
-Moved some CSS selectors to bunch relavent information together (all benefits formatting together as an example)<b>
-Adjusted padding in content section to align bottom of main content with bottom of benefits sidebar<b>
-Condensed img height under one class "content" to eliminate repitition in coding<b>
-Condensed h2 formatting under "content" class to eliminate repitition in coding<b>
-Condensed repetitive benefits formatting code under h2 and p, img elements<b>
-Added formatting for new "Our Benefits" heading<b>
-Adjusted format to size benefit box to align with content box vertically<b>
-Added 'margin-top' to lead area of benefits sidebar to space under new header<b>
-Eliminated all extra empty lines to improve readability<b>
-Wrapped text in html to improve readability<b><b>
+- Added comments to describe changes made to CSS file as they were made
+- Added comments to html file to denote changes in layout and to show structure
+- Linked header list attribute to proper reference in page to click and go
+- Changed title so information about webpage shows up on tab in browser
+- Added "alt" information to images in html file
+- Grouped all benefits section code in html under 'section' attribute to clarify this sections content
+- Added header to benefits section (sidebar) to clearly denote sections purpose
+- Center paragraphs in benefits sidebar to improve appearance
+- Reduced size of 'hero' image to condense homepage so users sees relative details without scrolling
+- Modified some class selector names to make them more semantic
+- Moved some CSS selectors to bunch relavent information together (all benefits formatting together as an example)
+- Adjusted padding in content section to align bottom of main content with bottom of benefits sidebar
+- Condensed img height under one class "content" to eliminate repitition in coding
+- Condensed h2 formatting under "content" class to eliminate repitition in coding
+- Condensed repetitive benefits formatting code under h2 and p, img elements
+- Added formatting for new "Our Benefits" heading
+- Adjusted format to size benefit box to align with content box vertically
+- Added 'margin-top' to lead area of benefits sidebar to space under new header
+- Eliminated all extra empty lines to improve readability
+- Wrapped text in html to improve readability
 </p>
 
 ## Usage
