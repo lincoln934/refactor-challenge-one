@@ -65,11 +65,11 @@ Screenshot of webpage after changes:
 
 ### Support used for build:
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
-- (https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
-- (https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured
-- (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-- (https://www.thoughtco.com/why-use-semantic-html-3468271
-- (https://www.nobledesktop.com/html-quick-guide
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured
+- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- https://www.thoughtco.com/why-use-semantic-html-3468271
+- https://www.nobledesktop.com/html-quick-guide
 
 ## Badges
 
